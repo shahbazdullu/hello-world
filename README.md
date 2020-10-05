@@ -12,7 +12,7 @@ _When you run this it wil generate a new updated configuration.yml file in confi
 *you can use this alternatively to use the configuration file.*
 	lmchecker.sh --guiconfig
 
-** Note: ** if you have already generated config file from previous step, then skip this step.
+**Note:** if you have already generated config file from previous step, then skip this step.
 
 # To run the LMChecker
 	lmchecker.sh --run
